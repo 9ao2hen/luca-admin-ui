@@ -1,6 +1,6 @@
 <template>
   <ContentWrap>
-    <doc-alert title="报表设计器" url="https://doc.iocoder.cn/report/" />
+    <doc-alert title="报表设计器" url="https://doc.juyogo.cn/report/" />
 
     <IFrame :src="src" />
   </ContentWrap>

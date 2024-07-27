@@ -3,7 +3,7 @@
  
  
     title="审批转办、委派、抄送"
-    url="https://doc.iocoder.cn/bpm/task-delegation-and-cc/"
+    url="https://doc.juyogo.cn/bpm/task-delegation-and-cc/"
   />
  
 
