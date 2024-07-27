@@ -2,7 +2,7 @@
  
  
     title="流程设计器（钉钉、飞书）"
-    url="https://doc.iocoder.cn/bpm/model-designer-bpmn/"
+    url="https://doc.juyogo.cn/bpm/model-designer-bpmn/"
   />
  
  

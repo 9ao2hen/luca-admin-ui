@@ -1,7 +1,7 @@
 <template>
  
     title="【财务】采购付款、销售收款"
-    url="https://doc.iocoder.cn/sale/finance-payment-receipt/"
+    url="https://doc.juyogo.cn/sale/finance-payment-receipt/"
   />
 
   <ContentWrap>
