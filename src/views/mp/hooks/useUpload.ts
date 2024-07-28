@@ -15,7 +15,7 @@ const useBeforeUpload = (type: UploadType, maxSizeMB: number) => {
 
     switch (type) {
       case UploadType.Image:
-        allowTypes = ['image/jpeg', 'image/png', 'image/gif', 'image/bmp', 'image/jpg']
+        allowTypes = ['image/jpeg', 'image/png', 'image/gif', 'image/bmp', 'image/jpg', 'image/webp']
         maxSizeMB = 2
         name = '图片'
         break
